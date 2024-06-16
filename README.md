@@ -1,5 +1,8 @@
 <h1>Sentic UI</h1>   
 
+
+<img src="/public/preview.png" />
+
 ## Build Setup
 
 ```bash
