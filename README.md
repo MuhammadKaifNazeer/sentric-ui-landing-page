@@ -1,4 +1,4 @@
-<h1>Sentic UI</h1>   
+<h1>Sentric UI</h1>   
 
 
 <img src="/public/preview.png" />
